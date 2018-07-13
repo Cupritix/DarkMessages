@@ -22,12 +22,12 @@
 
 @implementation DarkMessagesTheme
 
-+ (UIColor *)tintColor { return GRAY_9; }
-+ (UIColor *)bgColor { return GRAY_9; }
-+ (UIColor *)separatorColor { return GRAY_20; }
-+ (UIColor *)cellBgColor { return GRAY_11; }
++ (UIColor *)tintColor { return BLACK; }
++ (UIColor *)bgColor { return BLACK; }
++ (UIColor *)separatorColor { return BLACK; }
++ (UIColor *)cellBgColor { return BLACK; }
 + (UIColor *)cellTextColor { return WHITE; }
-+ (UIColor *)footerTextColor { return GRAY_56; }
++ (UIColor *)footerTextColor { return BLACK; }
 + (UIColor *)switchFillColor { return BLUE; }
 + (UIColor *)switchKnobColor { return BLACK; }
 + (UIColor *)switchBorderColor { return BLUE; }
